@@ -1,0 +1,5 @@
+# Yelp Open Dataset extracts. Not redistributed here; see README.
+*.csv
+__pycache__/
+.venv/
+.DS_Store
