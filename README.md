@@ -1,6 +1,6 @@
 # Yelp restaurant reviews: Data Programming assignment
 
-Cornell MSBA, BANA 5440 Introduction to Data Programming, Assignment 2. I wrote this by hand in Python with pandas, matplotlib and seaborn.
+Cornell MSBA, BANA 5440 Data Programming, Assignment 2. I wrote this by hand in Python with pandas, matplotlib and seaborn.
 
 > **Fall 2025 coursework.** This is a class assignment from the fall 2025 Data Programming course, one of the first Python courses in the program. It is not recent work, and it is published as it was submitted.
 
